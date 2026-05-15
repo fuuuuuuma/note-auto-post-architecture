@@ -3,6 +3,10 @@
 YouTube 動画の文字起こしを情報源に、note.com へ長文記事を毎日自動投稿する Node 製ボットの設計メモ。
 Claude Code のサブエージェント（Task tool）は使わず、**単一プロセスがモジュール分業で完結**する構造。Claude API は本文生成とファクトチェックの 2 回だけ叩く。
 
+## 公開資料
+
+- [【保存版】Codexをスマホで使うための設定方法と実践ガイド](docs/codex-mobile-complete-guide-2026.md)
+
 ---
 
 ## 全体像
